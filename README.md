@@ -65,20 +65,43 @@
 
 8. Копирование файлов из одной папки в другую;
 
+![image](https://user-images.githubusercontent.com/70855182/139692489-de9e9ea1-795a-4889-83a4-1c9955449de0.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139692549-4b48de4c-cea9-437a-a73d-b91979f17320.png)
+
 9. Перемещение файлов;
+
+![image](https://user-images.githubusercontent.com/70855182/139692719-7dd187f2-e3cd-4c01-9816-26c45e21875f.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139692905-dbc6cff8-92f0-4272-be87-72ac9c8173b0.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139692973-d79de41b-860f-439d-92ff-b400718d2b86.png)
 
 10. Переименование файлов.
 
+![image](https://user-images.githubusercontent.com/70855182/139692175-9dd51b73-0700-427a-9034-06368edb87cb.png)
 
+![image](https://user-images.githubusercontent.com/70855182/139692204-5aea789e-de8f-48ba-9e88-37dc8b9595cd.png)
 
 Дополнительные задания
 
 1. Разработайте псевдографический интерфейс для разработанного в основном задании файлового менеджера.
 
+![image](https://user-images.githubusercontent.com/70855182/139693419-18b29a44-9567-4490-8aaf-330864dc4b6b.png)
+
 2. Сделайте файловый менеджер многопользовательским. Добавьте возможность регистрации пользователей. При регистрации каждому пользователю создается своя домашняя папка, в пределах которой он может работать.
+
+![image](https://user-images.githubusercontent.com/70855182/139693367-a9264d79-ebab-4cdc-a00f-767a4a2898b0.png)
 
 3. Придумайте и добавьте дополнительные функциональные возможности для файлового менеджера. Как пример можно взять:
 
 Архивация и разархивация файлов и папок;
 
+![image](https://user-images.githubusercontent.com/70855182/139693084-075468ae-fdd2-4ed5-823b-db753586d20c.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139693126-7077e286-2bee-4ed9-81ac-93ea668adc7e.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139693167-84ad235e-b707-4e2c-9ce2-1f9c16e15880.png)
+
+![image](https://user-images.githubusercontent.com/70855182/139693231-567e00f7-c6b8-4c72-be93-5ca1f4c3ec26.png)
 
