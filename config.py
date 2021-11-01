@@ -1,0 +1,1 @@
+global_folder = r'D:\Our_dir'
